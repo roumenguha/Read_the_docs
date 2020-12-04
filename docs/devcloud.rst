@@ -83,14 +83,14 @@ The source file is in the *src* folder and the *README* provides instructions to
 			$ make all
 			$ make run
 	
-The output should look like this:
+	The output should look like this:
 
-.. code-block :: python
+	.. code-block :: python
 
-	$ ./matrix_mul_dpc
-	Device: Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz
-	Problem size: c(150,600) = a(150,300) * b(300,600)
-	Result of matrix multiplication using DPC++: Success - The results are correct!
+		$ ./matrix_mul_dpc
+		Device: Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz
+		Problem size: c(150,600) = a(150,300) * b(300,600)
+		Result of matrix multiplication using DPC++: Success - The results are correct!
 		
 It shows the device name used for the matrix multiplication, the matrices' size, and the testbench result.
 
