@@ -21,7 +21,7 @@ Linux: open a terminal, make sure your environment is set, navigate to streamMul
 
     $ vivado_hls script.tcl
 
-Windows: open vivado_hls command line and run the following ::
+Windows: open Vivado HLS command line and run the following ::
 
     $ vivado_hls script.tcl
 
