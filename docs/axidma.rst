@@ -5,7 +5,7 @@ Simple streaming example
 ************************
 In this example we learn how to use `Xilinx AXI_DMA <https://www.xilinx.com/products/intellectual-property/axi_dma.htm>`_ to create streaming interfaces for and IP.
 
-This class will not go too deep into AXI protocols and Vivado, but a nice tutorial of the AXI Direct Memory Access (DMA) exists `here. <https://www.fpgadeveloper.com/2014/08/using-the-axi-dma-in-vivado.html>`_ You can also check out a discussion of the differences between the AXI interconnect options `here. <https://www.aldec.com/en/company/blog/145--demystifying-axi-interconnection-for-zynq-soc-fpga>`_ More detail is available `here <https://people-ece.vse.gmu.edu/coursewebpages/ECE/ECE699_SW_HW/S16/viewgraphs/ECE699_lecture_6.pdf>`_ and `here <http://users.ece.utexas.edu/~gerstl/ee382m_f18/labs/project/vivado/24_Creating_Processor_system.pdf>`_
+This class will not go too deep into AXI protocols and Vivado, but a nice tutorial of the AXI Direct Memory Access (DMA) exists `here. <https://www.fpgadeveloper.com/2014/08/using-the-axi-dma-in-vivado.html>`_ You can also check out a discussion of the differences between the AXI interconnect options `here. <https://www.aldec.com/en/company/blog/145--demystifying-axi-interconnection-for-zynq-soc-fpga>`_ More detail is available `here <https://people-ece.vse.gmu.edu/coursewebpages/ECE/ECE699_SW_HW/S16/viewgraphs/ECE699_lecture_6.pdf>`_ and `here .<http://users.ece.utexas.edu/~gerstl/ee382m_f18/labs/project/vivado/24_Creating_Processor_system.pdf>`_
 
 1) Vivado HLS: Generating RTL code from C/C++ code
 -------------------------------------------------
