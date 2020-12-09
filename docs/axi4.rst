@@ -6,6 +6,8 @@ Simple example of AXI4-Burst Mode
 
 This lab is an example of AXI4 data transfer in burst mode. It takes in a given sample of values and provides the square root. 
 
+This class will not go too deep into AXI protocols and Vivado. You can also check out a discussion of the differences between the AXI interconnect options `here. <https://www.aldec.com/en/company/blog/145--demystifying-axi-interconnection-for-zynq-soc-fpga>`_ More detail is available `here <https://people-ece.vse.gmu.edu/coursewebpages/ECE/ECE699_SW_HW/S16/viewgraphs/ECE699_lecture_6.pdf>`_ and `here <http://users.ece.utexas.edu/~gerstl/ee382m_f18/labs/project/vivado/24_Creating_Processor_system.pdf>`_
+
 1) Vivado HLS: Generating RTL code from C/C++ code
 --------------------------------------------------
 
